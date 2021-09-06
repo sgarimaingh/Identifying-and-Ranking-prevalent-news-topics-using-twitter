@@ -4,8 +4,7 @@ This system identifies news topics that are popular in both social media and new
 and User Interaction(UI). These three factors forms the basis of ranking of news topics and thus improve the quality and variety of ranked news.
 
 
-
-
+*************************************************************************************************************************************************************************
 **REQUIREMENTS**
 
 NETBEANS(7.2.1)
@@ -16,7 +15,8 @@ Apache Tomcat Server
 
 JDK
 
-***************************************************
+**************************************************************************************************************************************************************************
+**INSTRUCTIONS**
 
 1) First install JDK. 
 
