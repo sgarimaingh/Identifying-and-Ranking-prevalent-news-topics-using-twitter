@@ -1,6 +1,6 @@
 **INTRODUCTION**
 
-This system identifies news topics that are popular in both social media and news media and ranks them according to three factors i.e. Media Focus(MF), User Attention(UA) 
+This system identifies news topics that are popular in both Twitter and news media and ranks them according to three factors i.e. Media Focus(MF), User Attention(UA) 
 and User Interaction(UI). These three factors forms the basis of ranking of news topics and thus improve the quality and variety of ranked news.
 
 
